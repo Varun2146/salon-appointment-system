@@ -64,11 +64,6 @@ A full-stack web application for booking, managing, and tracking salon appointme
 
 ### 📦 Installation
 
-```bash
-git clone https://github.com/purushotham2628/salon-appointment-system.git
-cd salon-appointment-system
-npm install
-```
 
 ### 🔐 Environment Setup
 
@@ -110,16 +105,7 @@ salon-appointment-system/
 ├── .env
 ├── .gitignore
 ├── README.md
-└── assets/
-    └── images/
-        ├── home-page.png
-        ├── services-section.png
-        ├── booking-form.png
-        ├── admin-login.png
-        ├── admin-dashboard.png
-        ├── email-bookingmessage.png
-        └── email-confirmed.png
-```
+
 
 ---
 
@@ -143,11 +129,9 @@ salon-appointment-system/
 
 ## 🤝 Contributing
 
-This is a personal project, but contributions are welcome.  
+ 
 Feel free to submit issues or pull requests for improvements !
 
 ---
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE)
