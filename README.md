@@ -34,25 +34,25 @@ A full-stack web application for booking, managing, and tracking salon appointme
 > 📌 All screenshots are stored in the `assets/images/` folder.
 
 ### 🏠 Home Page  
-![Home Page](assets/images/home-page.png)
+![Home Page](hp.png)
 
 ### 💈 Services Section  
-![Services](assets/images/services-section.png)
+![Services](ser.png)
 
 ### 📅 Booking Form  
-![Booking Form](assets/images/booking-form.png)
+![Booking Form](book.png)
 
 ### 🔐 Admin Login  
-![Admin Login](assets/images/admin-login.png)
+![Admin Login](admlogin.png)
 
 ### 📊 Admin Dashboard  
-![Admin Dashboard](assets/images/admin-dashboard.png)
+![Admin Dashboard](appman.png)
 
 ### 📧 Email - Booking Message  
-![Email Booking Message](assets/images/email-bookingmessage.png)
+![Email Booking Message](book.png)
 
 ### ✅ Email - Confirmation Message  
-![Email Confirmed](assets/images/email-confirmed.png)
+![Email Confirmed](confirm.png)
 
 ---
 
